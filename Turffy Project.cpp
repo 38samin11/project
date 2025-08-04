@@ -391,7 +391,7 @@ void interfaceadmin()
 void projectdescription()
 {
     cout << "BISMILLAHIR RAHMANIR RAHIM\n";
-    cout << "THIS IS A PROJECT ABOUT TURF MANAGEMENT SYSTEM\n";
+    cout << "THIS IS A PROJECT - TURFFY\n";
     cout << "======================================================\n";
     cout << "THIS PROJECT IS MADE BY:\n";
     cout << "1. TAFHIMUR RAHMAN SAMIN (C243172)\t2. MINHAJ UDDIN SANIM (C243177)\n";
@@ -430,4 +430,5 @@ int main()
     }
     return 0;
 }
+
 
